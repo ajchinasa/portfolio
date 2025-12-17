@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #3b82f6;
+  --color--primary-dark: #0d0d0d;
+}
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, sans-serif;
+}
