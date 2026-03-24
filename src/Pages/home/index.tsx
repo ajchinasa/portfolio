@@ -99,13 +99,13 @@ const Home = () => {
         <LinkIcon
           icon={<TbBrandLinkedin className="text-5xl text-black dark:text-white" />}
           label="LinkedIn"
-          href="https://linkedin.com/in/your-linkedin"
+          href="https://linkedin.com/in/chinasa-ajogu"
           external
         />
         <LinkIcon
           icon={<PiFilmScriptFill className="text-5xl text-black dark:text-white" />}
           label="Resume"
-          href="https://drive.google.com/file/d/1TRJ9YOV4aEPiT__0LxoGwQNolMWfTTt4/view?usp=sharing"
+          href="https://drive.google.com/file/d/1XTurc8iwsbuITvpJnMhElzH4PGTujPSC/view?usp=sharing"
           external
         />
       </div>

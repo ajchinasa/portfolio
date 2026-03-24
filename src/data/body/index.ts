@@ -1,9 +1,8 @@
-
 import financeApp from "../../assets/images/financeApp.png";
 import adviseGeneratorApp from "../../assets/images/adviseGeneratorApp.png";
 import qrCode from "../../assets/images/qrCode.png";
 import cardComponent from "../../assets/images/cardComponent.png";
-import registrationLoginPage from "../../assets/images/registrationLoginPage.png";
+// import registrationLoginPage from "../../assets/images/registrationLoginPage.png";
 import carousel from "../../assets/images/carousel.png";
 import mentions from "../../assets/images/mentions.png";
 
@@ -57,11 +56,11 @@ export const projects: Project[] = [
     imageSrc: cardComponent,
     projectUrl: "https://frontend-mentor-card-component-solution.vercel.app/",
   },
-  {
-    title: "Registration/Login Page",
-    description:
-      "A clean, responsive registration and login page built with HTML, CSS, and vanilla JavaScript.",
-    imageSrc: registrationLoginPage,
-    projectUrl: "https://registration-login-page-html-css.vercel.app/",
-  },
+  // {
+  //   title: "Registration/Login Page",
+  //   description:
+  //     "A clean, responsive registration and login page built with HTML, CSS, and vanilla JavaScript.",
+  //   imageSrc: registrationLoginPage,
+  //   projectUrl: "https://registration-login-page-html-css.vercel.app/",
+  // },
 ];
