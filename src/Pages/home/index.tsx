@@ -81,7 +81,7 @@ const Home = () => {
 
       {/* Title */}
       <h1 className="relative text-5xl font-medium mb-2 z-10">Ajogu Chinasa</h1>
-      <h2 className="relative text-3xl font-light mb-8 z-10">Front-end Developer</h2>
+      {/* <h2 className="relative text-3xl font-light mb-8 z-10">Front-end Developer</h2> */}
 
       {/* Links */}
       <div className="flex gap-8 lg:gap-12 relative z-10">
@@ -105,7 +105,7 @@ const Home = () => {
         <LinkIcon
           icon={<PiFilmScriptFill className="text-5xl text-black dark:text-white" />}
           label="Resume"
-          href="https://drive.google.com/file/d/1XTurc8iwsbuITvpJnMhElzH4PGTujPSC/view?usp=sharing"
+          href="https://drive.google.com/file/d/17x3KO56WIPH9gDKojcys5YEXT2QZ0MRM/view?usp=sharing"
           external
         />
       </div>
