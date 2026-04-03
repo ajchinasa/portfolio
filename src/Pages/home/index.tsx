@@ -105,7 +105,7 @@ const Home = () => {
         <LinkIcon
           icon={<PiFilmScriptFill className="text-5xl text-black dark:text-white" />}
           label="Resume"
-          href="https://drive.google.com/file/d/17x3KO56WIPH9gDKojcys5YEXT2QZ0MRM/view?usp=sharing"
+          href="https://drive.google.com/file/d/1p2423JWAAQZNYBQTPnS6OZkzwRa9QA7b/view?usp=share_link"
           external
         />
       </div>
